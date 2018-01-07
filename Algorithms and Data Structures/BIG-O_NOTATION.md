@@ -1,4 +1,4 @@
-#Big-O notation
+# Big-O notation
 
 ##Motivation
 
